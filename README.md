@@ -55,7 +55,7 @@ ${\color{Cerulean}\&lt;footer&gt;\}$
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
 
-###  ${\color{Red}\ See\ below\ soome\ of\ my\ works \}$ <img src="https://user-images.githubusercontent.com/112705866/212580671-96444438-de5f-478e-8da6-f9ecacf8ed86.gif" alt="react" width="20" height="20"/>
+###  ${\color{Red}\ See\ below\ some\ of\ my\ works \}$ <img src="https://user-images.githubusercontent.com/112705866/212580671-96444438-de5f-478e-8da6-f9ecacf8ed86.gif" alt="react" width="20" height="20"/>
 
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
