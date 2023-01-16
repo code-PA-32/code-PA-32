@@ -1,21 +1,22 @@
-${\color{Cerulean}\textsf{ &lt; header &gt; }}$
+${\color{Cerulean}\textsf{ &lt; div id='root'  &gt; }}$
 
- ## ${\color{Cerulean}\ \ \ \textsf{ &lt; h1 &gt; }}$ ${{\color{Goldenrod}\textsf{ Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Front-end-developer\ \}}}\$ ${\color{Cerulean}\textsf{ &lt; /h1 &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ &lt; header &gt; }}$
+
+${\color{Cerulean}\ \ \ \ \ \ \ \textsf{ &lt; h1 &gt; }}$ ${{\color{Goldenrod}\Huge{\textsf{ Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Front-end-developer\ \}}}}\$ ${\color{Cerulean}\textsf{ &lt; /h1 &gt; }}$
 
 
+${\color{Cerulean}\ \ \ \textsf{ &lt; /header &gt; }}$
 
 
-${\color{Cerulean}\textsf{ &lt; /header &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ &lt; main &gt; }}$
 
-${\color{Cerulean}\textsf{ &lt; main &gt; }}$
-
-${\color{Cerulean}\ \ \ \ \textsf{ &lt; div &gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&pause=1111&color=0AF7E9&center=true&vCenter=true&multiline=true&width=535&height=95&lines=The+more+you+study+the+more+you+know.++;The+more+you+know+the+more+you+forget.;The+more+you+forget+the+less+you+know.;+So%2C+why+study%3F)](https://git.io/typing-svg)
      
-${\color{Cerulean}\ \ \ \ \textsf{ &lt; /div &gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; /div &gt; }}$
 
-${\color{Cerulean}\ \ \ \ \textsf{ &lt; div &gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
 
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
@@ -47,11 +48,11 @@ ${\color{Cerulean}\ \ \ \ \textsf{ &lt; div &gt; }}$
 </p>
 </dd></dl></dd></dl></dd></dl></dd></dl>
     
-${\color{Cerulean}\ \ \ \ \textsf{ &lt; /div &gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; /div &gt; }}$
 
-${\color{Cerulean}\textsf{ &lt; /main &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ &lt; /main &gt; }}$
 
-${\color{Cerulean}\textsf{ &lt; footer &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ &lt; footer &gt; }}$
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
@@ -61,6 +62,6 @@ ${\color{Cerulean}\textsf{ &lt; footer &gt; }}$
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
     
-${\color{Cerulean}\textsf{ &lt; /footer &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ &lt; /footer &gt; }}$
 
-
+${\color{Cerulean}\textsf{ &lt; /div &gt; }}$
