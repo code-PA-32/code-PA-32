@@ -21,7 +21,7 @@ ${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
-### · 👨🏼‍💻 ${\color{Dandelion}\textsf{ I’m\ currently\ working\ on: }}$ https://github.com/OleksandrVernichenko/autohunt-app
+### · 👨🏼‍💻 ${\color{Dandelion}\textsf{ I’m\ currently\ working\ on: }}$ [https://github.com/OleksandrVernichenko/autohunt-app](https://github.com/OleksandrVernichenko/infinity-cars)
 
  
 ### · 🌱 ${\color{Dandelion}\textsf{ I’m\ currently\ learning: }}$ ![react-svgrepo-com](https://user-images.githubusercontent.com/112705866/212582608-1a88bfd9-c266-4edf-a695-33272bb66bc6.svg)&nbsp; ![redux-svgrepo-com](https://user-images.githubusercontent.com/112705866/212582610-1e6a5c5e-fdca-4d0e-8848-94b69d580749.svg)
