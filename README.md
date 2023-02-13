@@ -1,4 +1,4 @@
-${\color{Cerulean}\textsf{ &lt; div id='root'  &gt; }}$
+
 
 ${\color{Cerulean}\ \ \ \textsf{ &lt; header &gt; }}$
 
@@ -64,4 +64,4 @@ ${\color{Cerulean}\ \ \ \textsf{ &lt; footer &gt; }}$
     
 ${\color{Cerulean}\ \ \ \textsf{ &lt; /footer &gt; }}$
 
-${\color{Cerulean}\textsf{ &lt; /div &gt; }}$
+
