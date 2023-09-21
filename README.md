@@ -6,7 +6,7 @@
 
 
 
-### · 📫 ${\color{Dandelion}\textsf{ How\ to\ reach\ me: }}$   &nbsp;[![gmail-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574612-0e580f22-09ca-46a1-998e-e398a7f44459.svg)](vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574637-ad26b98a-ce7d-4518-b9f8-adc3d0849e6e.svg)](https://t.me/oleksandr_vernichenko)&nbsp; [![linkedin-color-svgrepo-com](https://github.com/OleksandrVernichenko/autohunt/assets/112705866/fed07e5a-3175-4294-856e-5c0daa8c6522)](https://www.linkedin.com/in/oleksandr-vernichenko-2a53a2273/)&nbsp;
+### · 📫 How to reach me:    &nbsp;[![gmail-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574612-0e580f22-09ca-46a1-998e-e398a7f44459.svg)](vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574637-ad26b98a-ce7d-4518-b9f8-adc3d0849e6e.svg)](https://t.me/oleksandr_vernichenko)&nbsp; [![linkedin-color-svgrepo-com](https://github.com/OleksandrVernichenko/autohunt/assets/112705866/fed07e5a-3175-4294-856e-5c0daa8c6522)](https://www.linkedin.com/in/oleksandr-vernichenko-2a53a2273/)&nbsp;
 
 
 
