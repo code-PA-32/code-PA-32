@@ -1,32 +1,26 @@
+${\color{Cerulean}\ \ \ \textsf{ \&lt;header&gt; }}$
 
+${\color{Cerulean}\ \ \ \ \ \ \ \textsf{ \&lt;h1&gt; }}$ ${{\color{Goldenrod}\Huge{\textsf{ Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Frontend-developer\ \}}}}\$ ${\color{Cerulean}\textsf{ \&lt;/h1&gt; }}$
 
-${\color{Cerulean}\ \ \ \textsf{ &lt; header &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ \&lt;/header&gt; }}$
 
-${\color{Cerulean}\ \ \ \ \ \ \ \textsf{ &lt; h1 &gt; }}$ ${{\color{Goldenrod}\Huge{\textsf{ Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Frontend-developer\ \}}}}\$ ${\color{Cerulean}\textsf{ &lt; /h1 &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ \&lt;main&gt; }}$
 
-
-${\color{Cerulean}\ \ \ \textsf{ &lt; /header &gt; }}$
-
-
-${\color{Cerulean}\ \ \ \textsf{ &lt; main &gt; }}$
-
-${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/5951b47f-c538-4309-af1c-2dcd7334da8c" alt="react" width="30" height="30"/>&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&pause=1111&color=0AF7E9&center=true&vCenter=true&multiline=true&width=535&height=95&lines=The+more+you+study+the+more+you+know.++;The+more+you+know+the+more+you+forget.;The+more+you+forget+the+less+you+know.;+So%2C+why+study%3F)](https://git.io/typing-svg)
      
-${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; /div &gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ \&lt;/div&gt; }}$
 
-${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
-
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
  
 📫 ${\color{Dandelion}\textsf{ How\ to\ reach\ me: }}$   &nbsp;[![gmail-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574612-0e580f22-09ca-46a1-998e-e398a7f44459.svg)](vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574637-ad26b98a-ce7d-4518-b9f8-adc3d0849e6e.svg)](https://t.me/oleksandr_vernichenko)&nbsp;
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
-    
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
@@ -50,11 +44,11 @@ ${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
 </p>
 </dd></dl></dd></dl></dd></dl></dd></dl>
     
-${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; /div &gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ \&lt;/div&gt; }}$
 
-${\color{Cerulean}\ \ \ \textsf{ &lt; /main &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ \&lt;/main&gt; }}$
 
-${\color{Cerulean}\ \ \ \textsf{ &lt; footer &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ \&lt;footer&gt; }}$
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
@@ -64,4 +58,4 @@ ${\color{Cerulean}\ \ \ \textsf{ &lt; footer &gt; }}$
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
     
-${\color{Cerulean}\ \ \ \textsf{ &lt; /footer &gt; }}$
+${\color{Cerulean}\ \ \ \textsf{ \&lt;/footer&gt; }}$
