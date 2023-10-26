@@ -1,19 +1,67 @@
-## Hi there, I'm Oleksandr, Frontend Developer!
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1998&pause=300&multiline=true&width=455&height=130&lines=The+more+you+learn%2C+the+more+you+know.;The+more+you+know%2C+the+more+you+forget.;The+more+you+forget%2C+the+less+you+know.;So+why+bother+to+learn.)](https://git.io/typing-svg)
+${\color{Cerulean}\ \ \ \textsf{ &lt; header &gt; }}$
+
+${\color{Cerulean}\ \ \ \ \ \ \ \textsf{ &lt; h1 &gt; }}$ ${{\color{Goldenrod}\Huge{\textsf{ Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Frontend-developer\ \}}}}\$ ${\color{Cerulean}\textsf{ &lt; /h1 &gt; }}$
+
+
+${\color{Cerulean}\ \ \ \textsf{ &lt; /header &gt; }}$
+
+
+${\color{Cerulean}\ \ \ \textsf{ &lt; main &gt; }}$
+
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/5951b47f-c538-4309-af1c-2dcd7334da8c" alt="react" width="30" height="30"/>&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&pause=1111&color=0AF7E9&center=true&vCenter=true&multiline=true&width=535&height=95&lines=The+more+you+study+the+more+you+know.++;The+more+you+know+the+more+you+forget.;The+more+you+forget+the+less+you+know.;+So%2C+why+study%3F)](https://git.io/typing-svg)
      
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; /div &gt; }}$
+
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; div &gt; }}$
 
 
+<dl><dd><dl><dd><dl><dd><dl><dd>
+ 
+📫 ${\color{Dandelion}\textsf{ How\ to\ reach\ me: }}$   &nbsp;[![gmail-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574612-0e580f22-09ca-46a1-998e-e398a7f44459.svg)](vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574637-ad26b98a-ce7d-4518-b9f8-adc3d0849e6e.svg)](https://t.me/oleksandr_vernichenko)&nbsp;
 
-### · 📫 How to reach me:    &nbsp;[![gmail-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574612-0e580f22-09ca-46a1-998e-e398a7f44459.svg)](vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574637-ad26b98a-ce7d-4518-b9f8-adc3d0849e6e.svg)](https://t.me/oleksandr_vernichenko)&nbsp; [![linkedin-color-svgrepo-com](https://github.com/OleksandrVernichenko/autohunt/assets/112705866/fed07e5a-3175-4294-856e-5c0daa8c6522)](https://www.linkedin.com/in/oleksandr-vernichenko-2a53a2273/)&nbsp;
+</dd></dl></dd></dl></dd></dl></dd></dl>
+    
+
+<dl><dd><dl><dd><dl><dd><dl><dd>
+    
+🚀 &nbsp; ${\color{RedOrange}\textsf{ Some\ tools\ I\ have\ used\ and\ learned }}$ 
+    
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="30" height="30" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="js" width="30" height="30"/>&nbsp;            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/112705866/212576928-1c3ba62d-c95c-4338-8311-e2376bf4176c.svg"  alt="github" />&nbsp;
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/59692b9d-854e-4e9b-a18b-76717bff5ed1" width="30" height="30"  alt="storibook" />&nbsp; 
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/e6f14ed8-f72b-426a-b630-3ad173f2464b" width="30" height="30"  alt="chromatic" />&nbsp;
+          
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/be496140-9900-4d68-a3fa-ed96f47387a8" width="30" height="30"  alt="docker" />&nbsp;
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/a169009d-a5db-4b6e-8225-bb2f5381c8b8" width="30" height="30"  alt="grapgql" />&nbsp;
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/2effe7c3-ab28-4ae9-ba22-4f84befba519" width="30" height="30"  alt="tailwind" />&nbsp; 
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/955f7338-831b-49d4-a7bb-671fedf47baa" width="30" height="30"  alt="vite" />&nbsp;
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/aeb69c52-8593-4d23-847b-db32684be2df" width="130" height="30"  alt="st" />&nbsp; 
+</p>
+</dd></dl></dd></dl></dd></dl></dd></dl>
+    
+${\color{Cerulean}\ \ \ \ \ \ \ \ \textsf{ &lt; /div &gt; }}$
+
+${\color{Cerulean}\ \ \ \textsf{ &lt; /main &gt; }}$
+
+${\color{Cerulean}\ \ \ \textsf{ &lt; footer &gt; }}$
+
+<dl><dd><dl><dd><dl><dd><dl><dd>
+    
+
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/e86f13a7-5476-4f2c-aeca-4bb1efe06574" alt="react" width="60" height="60"/>  ${\color{Dandelion}\textsf{ See\ below\ some\ of\ my\ works }}$ <img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/b3484e29-d569-4c6d-a6db-29192281777b" alt="react" width="30" height="30"/>
 
 
-
-
-
-### · 🚀 &nbsp;  Some tools I have used and learned:
-<img src="https://github.com/OleksandrVernichenko/healthcare-app/assets/112705866/c0354192-02f8-4476-9353-da5c8269a29c" alt="react" width="30" height="30"/> <img src="https://github.com/OleksandrVernichenko/healthcare-app/assets/112705866/b15d0148-57c7-4ef6-909b-03bbea053487" alt="redux" width="30" height="30" /> <img src="https://github.com/OleksandrVernichenko/healthcare-app/assets/112705866/693231c8-35e0-462f-bea6-ae060d1c8f88" alt="nodejs" width="30" height="30"/> <img src="https://github.com/OleksandrVernichenko/healthcare-app/assets/112705866/3f50e692-57e7-42ab-8dbb-d8d5476644bb" alt="typescript" width="30" height="30"/> <img src="https://github.com/OleksandrVernichenko/healthcare-app/assets/112705866/b7ed00bc-e7c4-4103-b03b-baeb67235aad" alt="mongodb" width="30" height="30"/> <img src="https://github.com/OleksandrVernichenko/healthcare-app/assets/112705866/5849d133-b997-4def-b616-172da0d8bf6b" alt="js" width="30" height="30"/> <img src="https://github.com/OleksandrVernichenko/healthcare-app/assets/112705866/dba88eef-4dc0-47d8-a07e-5b99943d3293" alt="git" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/112705866/212576928-1c3ba62d-c95c-4338-8311-e2376bf4176c.svg"  alt="github" /> 
-### See below some of my works <img src="https://user-images.githubusercontent.com/112705866/212580671-96444438-de5f-478e-8da6-f9ecacf8ed86.gif" alt="react" width="20" height="20"/>
-
-
+</dd></dl></dd></dl></dd></dl></dd></dl>
+    
+${\color{Cerulean}\ \ \ \textsf{ &lt; /footer &gt; }}$
