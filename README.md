@@ -1,6 +1,12 @@
 ${\color{Cerulean}\ \ \ \textsf{ \&lt;header&gt; }}$
 
-${\color{Cerulean}\ \ \ \ \ \ \ \textsf{ \&lt;h1&gt; }}$ ${{\color{Goldenrod}\Huge{\textsf{ Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Frontend-developer\ \}}}}\$ ${\color{Cerulean}\textsf{ \&lt;/h1&gt; }}$
+${\color{Cerulean}\ \ \ \ \ \ \ \textsf{ \&lt;h1&gt; }}$ 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/8a10cfb9-d8a8-4355-8fe1-54402a606ab4" alt="react" width="70" height="70" style="display:inline-block"/>&nbsp;  ${{\color{Goldenrod}\Huge{\textsf{  Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Frontend-developer\ \}}}}\$ 
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\color{Cerulean}\textsf{ \&lt;/h1&gt; }}$
 
 ${\color{Cerulean}\ \ \ \textsf{ \&lt;/header&gt; }}$
 
