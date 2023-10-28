@@ -55,7 +55,7 @@ ${\color{Grey}\ \ \ \textsf{ \&lt;footer&gt; }}$
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
 
-<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/e86f13a7-5476-4f2c-aeca-4bb1efe06574" alt="react" width="60" height="60"/>  ${\color{Dandelion}\textsf{ See\ below\ some\ of\ my\ works }}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/b3484e29-d569-4c6d-a6db-29192281777b" alt="react" width="128" height="128" style="display: inline-block;"/>
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/e86f13a7-5476-4f2c-aeca-4bb1efe06574" alt="react" width="60" height="60"/>  ${\color{Dandelion}\textsf{ See\ below\ some\ of\ my\ works }}$ 
 
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
