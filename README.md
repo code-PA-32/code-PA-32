@@ -27,6 +27,7 @@ ${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
 🚀 &nbsp; ${\color{RedOrange}\textsf{ Some\ tools\ I\ have\ used\ and\ learned }}$ 
+
     
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>&nbsp;
