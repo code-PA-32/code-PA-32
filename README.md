@@ -6,7 +6,7 @@ ${\color{Grey}\ \ \ \ \ \ \ \textsf{ \&lt;h1&gt; }}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\color{Grey}\textsf{ \&lt;/h1&gt; }}$
 
-${\color{Grey}\ \ \ \textsf{ \&lt;/header&gt; }}$
+${\color{Grey}\ \ \ \textsf{ \&lt;/header&gt; }}$ 
 
 ${\color{Grey}\ \ \ \textsf{ \&lt;main&gt; }}$
 
