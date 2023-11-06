@@ -20,7 +20,7 @@ ${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
  
-📫 ${\color{Dandelion}\textsf{ How\ to\ reach\ me: }}$   &nbsp;[![gmail-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574612-0e580f22-09ca-46a1-998e-e398a7f44459.svg)](vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://user-images.githubusercontent.com/112705866/212574637-ad26b98a-ce7d-4518-b9f8-adc3d0849e6e.svg)](https://t.me/oleksandr_vernichenko)&nbsp;
+📫 ${\color{Dandelion}\textsf{  How\ to\ reach\ me: }}$   &nbsp;[![gmail-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768534-7f0d7491-3085-44a6-80b0-2939a24f9f21.svg)](mailto:vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768542-d8167889-3a41-4507-86d0-6db8342c7ce7.svg)](https://t.me/oleksandr_vernichenko)&nbsp; [![telegram-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280771412-ca23c019-65c5-4133-9759-280da6af9ba2.svg)](https://www.linkedin.com/in/oleksandr-vernichenko-2a53a2273/)&nbsp;
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
