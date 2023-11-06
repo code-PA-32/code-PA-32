@@ -12,7 +12,7 @@ ${\color{Grey}\ \ \ \textsf{ \&lt;main&gt; }}$
 
 ${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&pause=1111&color=0AF7E9&center=true&vCenter=true&multiline=true&width=535&height=95&lines=The+more+you+study+the+more+you+know.++;The+more+you+know+the+more+you+forget.;The+more+you+forget+the+less+you+know.;+So%2C+why+study%3F)](https://git.io/typing-svg)
+&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&pause=1111&color=0AF7E9&center=true&vCenter=true&multiline=true&width=535&height=95&lines=The+more+you+study+the+more+you+know.++;The+more+you+know+the+more+you+forget.;The+more+you+forget+the+less+you+know.;+So%2C+why+study%3F)](https://git.io/typing-svg)
      
 ${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;/div&gt; }}$
 
