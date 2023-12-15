@@ -41,7 +41,6 @@ ${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 <img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/a169009d-a5db-4b6e-8225-bb2f5381c8b8" width="30" height="30"  alt="grapgql" />&nbsp;
 <img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/2effe7c3-ab28-4ae9-ba22-4f84befba519" width="30" height="30"  alt="tailwind" />&nbsp; 
 <img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/955f7338-831b-49d4-a7bb-671fedf47baa" width="30" height="30"  alt="vite" />&nbsp;
-<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/aeb69c52-8593-4d23-847b-db32684be2df" width="140" height="30"  alt="st" />&nbsp; 
 </p>
 </dd></dl></dd></dl></dd></dl></dd></dl>
     
