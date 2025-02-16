@@ -1,22 +1,22 @@
-${\color{Grey}\ \ \ \textsf{ \&lt;header&gt; }}$
+<font color="red">&lt;header&gt;</font>
 
-${\color{Grey}\ \ \ \ \ \ \ \textsf{ \&lt;h1&gt; }}$ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;h1&gt;</font>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/8a10cfb9-d8a8-4355-8fe1-54402a606ab4" alt="react" width="70" height="70" style="display:inline-block"/>&nbsp;  ${{\color{Goldenrod}\Huge{\textsf{  Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Frontend-developer\ \}}}}\$ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\{{\color{Goldenrod}\Huge{\textsf{  Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Full Stack Dev\ \}}}}$ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\color{Grey}\textsf{ \&lt;/h1&gt; }}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;/h1&gt;</font>  
 
-${\color{Grey}\ \ \ \textsf{ \&lt;/header&gt; }}$ 
+<font color="red">&lt;/header&gt;</font>
 
-${\color{Grey}\ \ \ \textsf{ \&lt;main&gt; }}$
+<font color="red">&lt;main&gt;</font>
 
-${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;div&gt;</font>  
 
 &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&pause=1111&color=0AF7E9&center=true&vCenter=true&multiline=true&width=535&height=95&lines=The+more+you+study+the+more+you+know.++;The+more+you+know+the+more+you+forget.;The+more+you+forget+the+less+you+know.;+So%2C+why+study%3F)](https://git.io/typing-svg)
      
-${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;/div&gt; }}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;/div&gt;</font>  
 
-${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;div&gt;</font>  
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
 
@@ -24,7 +24,7 @@ ${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
     
-🚀 &nbsp; ${\color{RedOrange}\textsf{ Some\ tools\ I\ have\ used\ and\ learned }}$ 
+🚀 &nbsp; $${\color{RedOrange}\textsf{ Some\ tools\ I\ have\ used\ and\ learned }}$$
 
     
 <p align="left">
@@ -44,20 +44,20 @@ ${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;div&gt; }}$
 </p>
 </dd></dl></dd></dl></dd></dl></dd></dl>
     
-${\color{Grey}\ \ \ \ \ \ \ \ \textsf{ \&lt;/div&gt; }}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;/div&gt;</font>  
 
-${\color{Grey}\ \ \ \textsf{ \&lt;/main&gt; }}$
+<font color="red">&lt;/main&gt;</font>  
 
-${\color{Grey}\ \ \ \textsf{ \&lt;footer&gt; }}$
+<font color="red">&lt;footer&gt;</font>  
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
 
-📫 ${\color{Dandelion}\textsf{ Contacts: }}$ &nbsp;[![gmail-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768534-7f0d7491-3085-44a6-80b0-2939a24f9f21.svg)](mailto:vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768542-d8167889-3a41-4507-86d0-6db8342c7ce7.svg)](https://t.me/oleksandr_vernichenko)&nbsp; [![telegram-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280771412-ca23c019-65c5-4133-9759-280da6af9ba2.svg)](https://www.linkedin.com/in/alexvernichenko/)&nbsp;
+📫 $${\color{Dandelion}\textsf{ Contacts: }}$$ &nbsp;[![gmail-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768534-7f0d7491-3085-44a6-80b0-2939a24f9f21.svg)](mailto:vernichenko.aleksandr@gmail.com)&nbsp; [![telegram-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768542-d8167889-3a41-4507-86d0-6db8342c7ce7.svg)](https://t.me/oleksandr_vernichenko)&nbsp; [![telegram-svgrepo-com](https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280771412-ca23c019-65c5-4133-9759-280da6af9ba2.svg)](https://www.linkedin.com/in/alexvernichenko/)&nbsp;
     
 
-<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/e86f13a7-5476-4f2c-aeca-4bb1efe06574" alt="react" width="60" height="60"/>  ${\color{Dandelion}\textsf{ See\ below\ some\ of\ my\ works }}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/b3484e29-d569-4c6d-a6db-29192281777b" alt="react" width="128" height="128" style="display: inline-block;"/>
+<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/e86f13a7-5476-4f2c-aeca-4bb1efe06574" alt="react" width="60" height="60"/>  $${\color{Dandelion}\textsf{ See\ below\ some\ of\ my\ works }}$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/code-PA-32/code-PA-32/assets/112705866/b3484e29-d569-4c6d-a6db-29192281777b" alt="react" width="128" height="128" style="display: inline-block;"/>
 
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
     
-${\color{Grey}\ \ \ \textsf{ \&lt;/footer&gt; }}$
+<font color="red">&lt;/footer&gt;</font>  
