@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;h1&gt;</font>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\{{\color{Goldenrod}\Huge{\textsf{  Hi\ there,\ I'm\ Oleksandr,\ and\ I'm\ a\ Full Stack Dev\ \}}}}$ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\{{\color{Goldenrod}\Huge{\textsf{  Hi\ there,\\ I'm\\ Oleksandr,\\ and\\ I'm\\ a\\ Full Stack Dev\\ \}}}}$ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">&lt;/h1&gt;</font>  
 
